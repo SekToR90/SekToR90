@@ -19,5 +19,5 @@
 ![VS Code](https://img.icons8.com/color/48/000000/visual-studio-code-insides.png)
 
 #### Моя статистика:
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SekToR90&show_icons=true&theme=vue)
-
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SekToR90&show_icons=true&theme=midnight-purple)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SekToR90&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
