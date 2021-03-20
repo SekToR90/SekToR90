@@ -12,7 +12,7 @@
  #### Мой стек :briefcase::  
 ![HTML5](https://img.icons8.com/color/48/000000/html-5.png)
 ![CSS3](https://img.icons8.com/color/48/000000/css3.png)
-![JavaScript](https://img.icons8.com/ios-filled/50/000000/javascript-logo.png)
+![JavaScript](https://img.icons8.com/color/48/000000/js.png)
 ![React](https://img.icons8.com/clouds/100/000000/react.png)
 ![Webpack](https://img.icons8.com/dusk/64/000000/webpack.png)
 ![Git](https://img.icons8.com/plasticine/100/000000/github.png)
