@@ -17,3 +17,9 @@
 ![Webpack](https://img.icons8.com/dusk/64/000000/webpack.png)
 ![Git](https://img.icons8.com/plasticine/100/000000/github.png)
 ![VS Code](https://img.icons8.com/color/48/000000/visual-studio-code-insides.png)
+
+#### Моя статистика:
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=SekToR90&show_icons=true&locale=en&layout=compact&count_private=true&theme=gruvbox&hide=python&langs_count=8" alt="SekToR90" />
+  <img src="https://github-readme-stats.vercel.app/api?username=SekToR90&show_icons=true&hide_rank=true&hide_title=true&count_private=true&theme=gruvbox" alt="Статистика" />
+</p>
