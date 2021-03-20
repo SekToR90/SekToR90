@@ -1,4 +1,4 @@
-##Привет, меня зовут Никита. 
+## Привет, меня зовут Никита. 
 
 Я начинающий фроненд-разработчик <img src="https://media.giphy.com/media/iigp4VDyf5dCLRlGkm/giphy.gif" width="25px" />
 <img align="right" width="40%" src="https://media.giphy.com/media/PiQejEf31116URju4V/giphy.gif" alt="Гифка Брюсом!">
