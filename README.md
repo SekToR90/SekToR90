@@ -9,4 +9,4 @@
 <img src="https://media.giphy.com/media/TGXoYOYmVQ9v6M3g1q/giphy.gif" width="25px" alt="React"/> React.js<br/>
 <img src="https://media.giphy.com/media/U6otE2mVum5EjwIjDu/giphy.gif" width="25px" alt="Мечта"/> Мечтаю стать первоклассным разработчиком<br/>
 
- ####Мой стек :briefcase::  
+ #### Мой стек :briefcase::  
