@@ -21,3 +21,8 @@
 #### Моя статистика:
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SekToR90&show_icons=true&theme=midnight-purple)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SekToR90&langs_count=8&theme=midnight-purple)
+
+
+<p align="center"><img scr="https://media.giphy.com/media/kewlTago0C6BoxLBhF/giphy.gif" width="25px" alt="Почтовый ящик"/> Для связи:
+  <a href="mailto:ustimencko.nickita@yandex.ru">ustimencko.nickita@yandex.ru</a>
+</p>
