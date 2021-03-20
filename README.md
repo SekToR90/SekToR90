@@ -10,3 +10,11 @@
 <img src="https://media.giphy.com/media/U6otE2mVum5EjwIjDu/giphy.gif" width="25px" alt="Мечта"/> Мечтаю стать первоклассным разработчиком<br/>
 
  #### Мой стек :briefcase::  
+![HTML5](https://img.icons8.com/color/48/000000/html-5.png)
+![CSS3](https://img.icons8.com/color/48/000000/css3.png)
+![JavaScript](https://img.icons8.com/ios-filled/50/000000/javascript-logo.png)
+![React](https://img.icons8.com/clouds/100/000000/react.png)
+![Webpack](https://img.icons8.com/dusk/64/000000/webpack.png)
+![Git](https://img.icons8.com/plasticine/100/000000/github.png)
+![VS Code](https://img.icons8.com/color/48/000000/visual-studio-code-insides.png)
+![WebStorm](https://cdn.icon-icons.com/icons2/1495/PNG/512/webstorm_102998.png)
